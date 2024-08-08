@@ -1,0 +1,67 @@
+
+
+@media (max-width:1200px) {
+    .product-info{
+        margin-block-start: 30px;
+    }
+    .product-info{
+        margin-block-start: 40px !important;
+    }
+    .hero-content {
+        text-align: center !important;
+    }
+    .play-btn{
+        justify-content: center;
+    }
+    
+}
+@media (max-width:992px) {
+    .contact-btn {
+        display: flex !important;
+       justify-content: center !important;
+       flex-direction: column;
+    }
+    
+}
+@media (max-width:768px) {
+    .center-class{
+      text-align: center;
+    }
+    .info{
+        gap: 20px !important;
+    }
+    .dotted-img{
+    display: none;    
+    }
+    .dotted-img2{
+display: none;
+    }
+    
+}
+@media (max-width:576px) {
+    
+    .info{
+       flex-direction: column;
+    }
+    .comapny{
+        text-align: center;
+    }
+    .form{
+        width: 100% !important;
+        justify-content: center;
+    }
+    .service{
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .play-btn h5{
+        font-size:14px ;
+    }
+    .swiper-content{
+        font-size: 14px;
+    }
+    
+    
+}
